@@ -1,0 +1,13 @@
+# Created by .gitignore support plugin (hsz.mobi)
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+
+## Directory-based project format
+.idea/
+/*.iml
+
+## Additional for IntelliJ
+out/
+
+## Logs dir
+logs/
